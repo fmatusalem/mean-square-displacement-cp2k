@@ -1,5 +1,5 @@
 /*BY FILIPE MATUSALEM, SEPT 2020     filipematus@gmail.com */
-/*Program to compute root mean square displacement from CP2K PDB trajectory file*/
+/*Program to compute mean square displacement (MSD) from CP2K PDB trajectory file*/
 /*Compilation: g++ -o rmsd_cp2k-pdb.x rmsd_cp2k-pdb.c*/
 #include <stdio.h>
 #include <stdlib.h>
